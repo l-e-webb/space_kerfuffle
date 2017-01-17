@@ -1,0 +1,16 @@
+d:assets:0:application/unknown
+i:button.png:343:image/png
+t:font.fnt:11540:application/unknown
+i:font.png:31102:image/png
+d:images:0:application/unknown
+t:images/spacekerfuffle.pack.atlas:4914:application/unknown
+i:images/spacekerfuffle.pack.png:32373:image/png
+t:level_json.json:77546:application/unknown
+t:com/badlogic/gdx/graphics/g3d/particles/particles.fragment.glsl:770:application/unknown
+t:com/badlogic/gdx/graphics/g3d/particles/particles.vertex.glsl:2886:application/unknown
+t:com/badlogic/gdx/graphics/g3d/shaders/default.fragment.glsl:5163:application/unknown
+t:com/badlogic/gdx/graphics/g3d/shaders/default.vertex.glsl:8948:application/unknown
+t:com/badlogic/gdx/graphics/g3d/shaders/depth.fragment.glsl:870:application/unknown
+t:com/badlogic/gdx/graphics/g3d/shaders/depth.vertex.glsl:2923:application/unknown
+t:com/badlogic/gdx/utils/arial-15.fnt:21743:application/unknown
+i:com/badlogic/gdx/utils/arial-15.png:21814:image/png

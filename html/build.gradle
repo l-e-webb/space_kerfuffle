@@ -47,6 +47,10 @@ task dist(dependsOn: [clean, compileGwt]) {
             from "war"
             into "build/dist"
         }
+        copy {
+            from "build/dist"
+            into "../web_distribution"
+        }
     }
 }
 
